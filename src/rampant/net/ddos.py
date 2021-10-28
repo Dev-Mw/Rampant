@@ -3,6 +3,8 @@
 """
 Show anything
 """
+from scapy.all import Ether, \
+    IP
 
 
 class DDoS:

@@ -130,4 +130,5 @@ dmypy.json
 
 # MacOSX
 .DS_Store
-hack.py
+../hack.py
+.idea/
